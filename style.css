@@ -16,6 +16,12 @@ body {
   flex-direction: column;
 }
 
+.logo {
+  width: 90px;
+  height: auto;
+  border-radius: 50%;
+}
+
 h1 {
   font-family: "DM Serif Display", serif;
   font-size: 48px;
